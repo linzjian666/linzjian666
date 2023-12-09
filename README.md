@@ -3,10 +3,7 @@
 
 ![GitHub账户最常用语言](https://github-stats.ubrong.com/api/top-langs/?username=linzjian666&layout=compact&theme=tokyonight)
 
-
-**linzjian666/linzjian666** 截至目前该用户主页访问量(话说真的会有人访问我的主页吗.....)
-
-![GitHud用户主页访问量](https://count.getloli.com/get/@linzjian666?theme=rule34)
+![GitHub用户主页访问量](https://count.getloli.com/get/@linzjian666?theme=rule34)
 
 <!--
 **linzjian666/linzjian666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
