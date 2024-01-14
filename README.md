@@ -1,7 +1,9 @@
 ### Hi there 👋
 ![](https://github-stats.ubrong.com/api?username=linzjian666&show_icons=true&theme=tokyonight)
 
+<!-- 
 ![](https://github-stats.ubrong.com/api/top-langs/?username=linzjian666&layout=compact&theme=tokyonight)
+-->
 
 ![](https://count.getloli.com/get/@linzjian666?theme=rule34)
 
